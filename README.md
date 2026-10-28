@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img width="308" height="333" alt="headshot" src="https://github.com/user-attachments/assets/1556b270-daa6-4e19-bdf4-62502d189ddb" />
 
 Dr. Fan is currently a tenure-track Assistant Professor with the University of Washington, Tacoma.  
 His research interests include cybersecurity, network softwarization, cloud computing, blockchain, and machine learning. 
@@ -20,4 +21,4 @@ His research interests include cybersecurity, network softwarization, cloud comp
 He worked as a postdoctoral associate with the University of Colorado, Colorado Springs (US) in 2019-2021.
 He worked as a postdoc with the University of Kent, Canterbury (UK) in 2017-2019. 
 He earned the Phd degree in Telematics Systems Engineering from the Technical University of Madrid (Spain) in 2017.
-<img width="308" height="333" alt="headshot" src="https://github.com/user-attachments/assets/1556b270-daa6-4e19-bdf4-62502d189ddb" />
+
