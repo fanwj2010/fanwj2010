@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 -->
 <!--
 <img width="308" height="333" alt="headshot" src="https://github.com/user-attachments/assets/1556b270-daa6-4e19-bdf4-62502d189ddb" />
--->
 ![Headshot](headshot.PNG)
+-->
+
+
 Dr. Fan is currently a tenure-track Assistant Professor with the University of Washington.  
 His research interests include cybersecurity, network softwarization, cloud computing, blockchain, and machine learning. 
 
